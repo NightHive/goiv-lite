@@ -1,0 +1,1 @@
+Signed relay commands land here as <id>.json. Each file is RSA-signed by Muse and verified on the laptop before anything runs; unsigned files are ignored and logged. Results never land here - they return over the encrypted uplink.
